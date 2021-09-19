@@ -1,0 +1,3 @@
+C:/Users/bcz/CLionProjects/FindAWord(TxtFile)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/bcz/CLionProjects/FindAWord(TxtFile)/cmake-build-debug/CMakeFiles/FindAWord_TxtFile_.dir
+C:/Users/bcz/CLionProjects/FindAWord(TxtFile)/cmake-build-debug/CMakeFiles/edit_cache.dir

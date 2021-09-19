@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bcz/CLionProjects/FindAWord(TxtFile)/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+conio.h
+-
+
